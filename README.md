@@ -1,6 +1,6 @@
 # Portfolio Project
 
-<h1>Screenshot From Project</h1>
+<h1>Screenshots From Project</h1>
 <img src="./src/assets/ss-home-page.png">
 <img src="./src/assets/ss-repository.png">
 <img src="./src/assets/ss-blog.png">
